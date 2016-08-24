@@ -1,7 +1,7 @@
 ---
 title: N64 Prototype Cartridge Information
 layout: post
-author: thiscouldbejd
+author: jd
 permalink: /n64-prototype-cartridge-information/
 source-id: 1AOyzf5mqR789djEtqaT8OeeUA29YAnMz9z6KPSAQcew
 published: true
